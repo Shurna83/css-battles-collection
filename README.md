@@ -11,7 +11,7 @@ The approach I use in my work life projects is totally different and I like to p
 
 Hope you can find those useful!
 
-PS: you can get in touch anytime to discuss solutions together!
+Get in touch and share what you think!
 
 ## To daily solutions
 
