@@ -65,6 +65,7 @@ You're welcome to get in touch and share what you think!
 - [Target #7 - Leafy Trail](./battles/7.md)
 - [Target #8 - Forking Crazy](./battles/8.md)
 - [Target #9 - Tesseract](./battles/9.md)
+- [Target #10 - Cloaked Spirits](./battles/10.md)
 
 ### Battle 2
 
