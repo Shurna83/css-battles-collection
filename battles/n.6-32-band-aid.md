@@ -1,0 +1,48 @@
+# Battle n.6 - Target n.32 - Band-aid
+
+[Here's the challenge](https://cssbattle.dev/play/32)
+
+Nothing fancy, just a simple rotated grid.
+
+```html
+<div class="grid">
+  <div class="white"></div>
+  <div class="green"></div>
+  <div class="white"></div>
+  
+  <div class="dark-yellow"></div>
+  <div class="yellow"></div>
+  <div class="dark-yellow"></div>
+  
+  <div class="white"></div>
+  <div class="green"></div>
+  <div class="white"></div>
+</div>
+<style>
+  body {
+    background: #FFFFFF;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0
+  }
+  .grid {
+    rotate: 45deg;
+    display: grid;
+    grid: 75px 50px 75px / 75px 50px 75px;
+  }
+  .white {
+    background: #FFFFFF;
+  }
+  .green {
+    background: #A3A368;
+  }
+  .dark-yellow {
+    background: #F3AC3C;
+  }
+  .yellow {
+     background: #FBE18C;
+  }
+</style>
+```
