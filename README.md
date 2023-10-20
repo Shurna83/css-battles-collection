@@ -33,3 +33,7 @@ PS: you can get in touch anytime to discuss solutions together!
 - [Battle #25 - Target #153 - Checkers](./battles/153.md)
 - [Battle #26 - Target #159 - Portal](./battles/159.md)
 - [Battle #26 - Target #162 - Upwards](./battles/162.md)
+
+## My two cents
+
+I had and am having fun with CSS battles. Just, I would like to challenge myself on some more real world battle, e.g. create some real world or fancy layout. That would be really instructive and something real to learn.
