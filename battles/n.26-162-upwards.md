@@ -1,0 +1,47 @@
+# Battle n.26 - Target n.162 - Upwards
+
+[Here's the challenge](https://cssbattle.dev/play/162)
+
+Just a grid with a span. But don't like that margin. Also, the body needs some reset on every challenge.
+This is annoying. Perhaps some way to get advantage of that margin?
+
+```css
+margin: 0;
+height: 100%;
+```
+
+```html
+<div class="grid">
+  <div class="green"></div>
+  <div class="yellow"></div>
+  <div></div>
+  <div></div>
+</div>
+<style>
+  body {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #998235
+  }
+  
+  .grid {
+    --size: 70px;
+    margin-top: 50px;
+    display: grid;
+    grid-template: repeat(2, var(--size)) / repeat(2, var(--size));
+    rotate: 45deg;
+  }
+
+  .green {
+    background: #0B2429;
+    grid-row: 1 / span 2
+  }
+
+  .yellow {
+    background: #FCBE5C;
+  }
+</style>
+```
