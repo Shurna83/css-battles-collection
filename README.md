@@ -66,6 +66,7 @@ You're welcome to get in touch and share what you think!
 - [Target #8 - Forking Crazy](./battles/8.md)
 - [Target #9 - Tesseract](./battles/9.md)
 - [Target #10 - Cloaked Spirits](./battles/10.md)
+- [Target #11 - Eye of Sauron](./battles/11.md)
 
 ### Battle 2
 
