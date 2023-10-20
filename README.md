@@ -37,10 +37,10 @@ Collection of my CSS Battles solutions.
 
 I had and am having fun with CSS battles. Just, I would like to challenge myself on some more real world battle, e.g. create some real world or fancy layout. That would be really instructive and something real to learn.
 
-All the solutions I found so far in the web focus on a 100% match regardless of what approach to use. I saw a lot of box-shadow tricks, pixel perfect margins and other stuff like that.
+All the solutions I found so far in the web focus on a 100% match or the highest score regardless of what approach to use. I saw a lot of box-shadow tricks, pixel perfect margins and other stuff like that.
 You know what? Those are gorgeous for the sake of the battle itself!
 But.
-The approach I use in my work life projects is totally different and I like to play the battles with this mindset.
+Such tricks are not actually maintainable in a real world life. The approach I use at work is totally different and I like to play the battles with another, more realistic, mindset.
 
 Hope you can find those useful!
 
