@@ -29,6 +29,7 @@ You're welcome to get in touch and share what you think!
 - [Battle #1 - Target #4 - Ups n Downs](./battles/4.md)
 - [Battle #1 - Target #5 - Acid Rain](./battles/5.md)
 - [Battle #1 - Target #6 - Missing Slice](./battles/6.md)
+- [Battle #1 - Target #7 - Leafy Trail](./battles/7.md)
 - [Battle #6 - Target #32 - Band Aid](./battles/32.md)
 - [Battle #19 - Target #109 - Curtain](./battles/109.md)
 - [Battle #23 - Target #142 - Curtains](./battles/142.md)
