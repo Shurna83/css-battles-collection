@@ -72,6 +72,8 @@ You're welcome to get in touch and share what you think!
 
 ### Battle 2
 
+- [Target #13 - Totally Triangle](./battles/13.md)
+
 ### Battle 3
 
 ### Battle 4
