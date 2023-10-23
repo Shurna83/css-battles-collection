@@ -41,6 +41,16 @@ All the solutions I found so far in the web focus on a 100% match or the highest
 You know what? Those are gorgeous for the sake of the battle itself!
 But.
 Such tricks are not actually maintainable in a real world life. The approach I use at work is totally different and I like to play the battles with another, more realistic, mindset.
+Specifically, here are the conceptual steps I follow:
+
+- body needs a reset
+
+```css
+body { margin: 0; height: 100%; }
+```
+
+- The vast majority of layouts are manageble with flex or grid layouts
+- When it goes to guess pixel perfect margins, sizes with absolute positioning, it gets boring, unless the fun focuses on some other CSS aspect
 
 Hope you can find those useful!
 
