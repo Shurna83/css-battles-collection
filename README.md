@@ -93,6 +93,8 @@ You're welcome to get in touch and share what you think!
 
 ### Battle 3
 
+- [Target #19 - Cube](./battles/19.md)
+
 ### Battle 4
 
 ### Battle 5
