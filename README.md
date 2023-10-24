@@ -88,6 +88,7 @@ You're welcome to get in touch and share what you think!
 - [Target #14 - Web Maker Logo](./battles/14.md)
 - [Target #15 - Overlap](./battles/15.md)
 - [Target #16 - Eye of the Tiger](./battles/16.md)
+- [Target #17 - Fidget Spinner](./battles/17.md)
 
 ### Battle 3
 
