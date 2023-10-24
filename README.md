@@ -62,6 +62,8 @@ You're welcome to get in touch and share what you think!
 - [2023-10-19](./daily/2023-10-19.md)
 - [2023-10-20](./daily/2023-10-20.md)
 - [2023-10-22](./daily/2023-10-22.md)
+- [2023-10-23](./daily/2023-10-23.md)
+- [2023-10-24](./daily/2023-10-24.md)
 
 ## Battle solutions
 
