@@ -89,6 +89,7 @@ You're welcome to get in touch and share what you think!
 - [Target #15 - Overlap](./battles/15.md)
 - [Target #16 - Eye of the Tiger](./battles/16.md)
 - [Target #17 - Fidget Spinner](./battles/17.md)
+- [Target #18 - Matrix](./battles/18.md)
 
 ### Battle 3
 
